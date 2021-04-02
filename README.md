@@ -9,9 +9,9 @@
 ### Clone the repository:
 1) git clone https://github.com/pilon33/retailTestJfv.git
 
-### Update maven project:
-1)Build project 
-2)Runs As --> Spring Boot App
+2) Update maven project:
+3)Build project 
+4)Runs As --> Spring Boot App
 
 ## Tester Api in Swagger UI:
 Swagger UI: http://localhost:8080/swagger-ui.html
