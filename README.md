@@ -4,7 +4,7 @@
  Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 ## How it works:
-## 0.1 Runs as Spring boot app.
+## Runs API Spring boot app .
 
 ### Clone the repository:
 1) git clone https://github.com/pilon33/retailTestJfv.git
