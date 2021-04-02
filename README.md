@@ -9,9 +9,9 @@
 ### Clone the repository:
 1) git clone https://github.com/pilon33/retailTestJfv.git
 
-2) Update maven project:
-3)Build project 
-4)Runs As --> Spring Boot App
+2) Update maven project  
+3) Build project 
+4) Runs As --> Spring Boot App 
 
 ## Tester Api in Swagger UI:
 Swagger UI: http://localhost:8080/swagger-ui.html
@@ -28,7 +28,7 @@ Swagger UI: http://localhost:8080/swagger-ui.html
 * Example: curl -X GET "http://localhost:8080/listclientes" -H "accept: application/json"
 
 
-#### Tester Api in Postman:
+#### Optinal Tester Api in Postman:
 
 ![image](https://user-images.githubusercontent.com/12847173/113461513-4e9a4080-93f3-11eb-8a6e-ba7771022577.png)
 
