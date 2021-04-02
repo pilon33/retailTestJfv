@@ -7,20 +7,17 @@
 ## 0.1 Runs as Spring boot app.
 
 ### Clone the repository:
-```git bash
-https://github.com/pilon33/jfv-challenge-subsidiary.git
-```
+git bash
+git clone https://github.com/pilon33/retailTestJfv.git
+
 ### Update maven project:
-```Build project 
-```Runs As 
-Spring Boot App
+1)Build project 
+2)Runs As --> Spring Boot App
 
-## Tester in Swagger UI:
+## Tester Api in Swagger UI:
+Swagger UI: http://localhost:8080/swagger-ui.html
 
-## Enlaces:
-- Swagger UI: http://localhost:8080/swagger-ui.html
-
-
+![image](https://user-images.githubusercontent.com/12847173/113461420-e5b2c880-93f2-11eb-84a7-acdccfbf80a7.png)
 
 ### POST request to `/creacliente` crea cliente (Nombre,Apellido,Edad,Fecha de nacimiento).
 * Example: curl -X POST "http://localhost:8080/creacliente" -H "accept: application/json" -H "Content-Type: application/json" -d "{ \"apellido\": \"perez\", \"edad\": 21, \"fecha_Nacimiento\": \"2000-07-07\", \"nombre\": \"adrian\"}"
