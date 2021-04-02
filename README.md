@@ -6,16 +6,16 @@
 ## How it works:
 ## 0.1 Runs as Spring boot app.
 
-* Clone the repository:
+### Clone the repository:
 ```git bash
 https://github.com/pilon33/jfv-challenge-subsidiary.git
 ```
-* Update maven project:
+### Update maven project:
 ```Build project 
 ```Runs As 
 Spring Boot App
 
-### Tester in Swagger UI:
+## Tester in Swagger UI:
 
 ## Enlaces:
 - Swagger UI: http://localhost:8080/swagger-ui.html
