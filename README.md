@@ -1,4 +1,4 @@
-## Intercorp Retail- Client. Spring boot , Maven , Java 8 , Cloud Firestore , JPA and Swagger.
+## Intercorp Retail- Client. Spring boot ,GIT ,  Maven , Java 8 , Cloud Firestore , JPA and Swagger.
 
 ### Sr Developer José Francisco valdez 
  Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
@@ -7,7 +7,7 @@
 ## 0.1 Runs as Spring boot app.
 
 * Clone the repository:
-```bash
+```git bash
 https://github.com/pilon33/jfv-challenge-subsidiary.git
 ```
 * Update maven project:
