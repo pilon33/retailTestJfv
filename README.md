@@ -1,4 +1,4 @@
-## Intercorp Retail- Client. Spring boot ,GIT ,  Maven , Java 8 , Cloud Firestore , JPA and Swagger.
+## Intercorp Retail- Client. Spring boot ,GIT ,  Maven , Java 8 , Cloud Google Firestore , JPA and Swagger.
 
 ### Sr Developer José Francisco valdez 
  Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
